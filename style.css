@@ -19,6 +19,7 @@
     transition: 1s;
 }
 .btn:hover{
+    width: 180px;
     background-color: rgb(245, 245, 245);
     transition: 1s;
 }
