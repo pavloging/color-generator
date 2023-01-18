@@ -4,22 +4,26 @@
     box-sizing: border-box;
     font-family: consolas;
 }
+html{
+     background: #000;   
+}
 .btn{
     background: none;
-    color: #111;
+    color: #fff;
     padding: 15px 60px;
     font-size: 1em;
     margin: 20px auto;
     max-width: 200px;
     outline: none;
     display: block;
-    border: 2px solid #111;
+    border: 2px solid #fff;
     cursor: pointer;
     border-radius: 10px;
     transition: 0.5s;
 }
 .btn:hover{
     background-color: rgb(245, 245, 245);
+    color: #000;
     transition: 1s;
 }
 .container{
@@ -35,7 +39,7 @@
     justify-content: center;
     align-items: center;
     background: #f00;
-    border: 2px solid #fff;
+    border: 2px solid #000;
     border-radius: 10px;
     color: #fff;
     font-size: 1.5em;
