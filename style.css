@@ -25,6 +25,7 @@
 .container{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 .box{
     max-width: 20%;
