@@ -42,4 +42,5 @@
 }
 .box:hover{
     width: 18%;
+    transition: 1s;
 }
