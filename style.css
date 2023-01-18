@@ -15,6 +15,7 @@
     display: block;
     border: 2px solid #111;
     cursor: pointer;
+    border-radius: 10px;
     transition: 1s;
 }
 .btn:hover{
@@ -33,6 +34,7 @@
     align-items: center;
     background: #f00;
     border: 2px solid #fff;
+    border-radius: 10px;
     color: #fff;
     font-size: 1.5em;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
